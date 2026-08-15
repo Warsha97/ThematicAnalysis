@@ -1,7 +1,5 @@
 # Thematic Analysis Repository
 
-## Thesis Context
-
 This repository contains the thematic analysis supporting the master's thesis:
 
 **Requirements for an AI-Enhanced Pattern Mining System for Healthcare BPMN Models**
