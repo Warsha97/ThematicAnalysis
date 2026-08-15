@@ -4,7 +4,10 @@ This repository contains the thematic analysis supporting the master's thesis:
 
 **Requirements for an AI-Enhanced Pattern Mining System for Healthcare BPMN Models**
 
-- `Thematic Analysis.xlsx` includes the full table of identified quotes, their codes, themes, requirements and the phase of pattern-mining
+The repository contains the following study materials:
+
+- `Thematic Analysis.xlsx` includes the full table of identified quotations, their codes, themes, derived requirements, and the corresponding pattern-mining phases.
+- `ArchiMate Motivation Model.png` represents the conceptual artefact developed in the study. It links the identified drivers, assessments, goals, stakeholders, and derived requirements for an AI-enhanced pattern mining system for healthcare BPMN models.
 
 ## Academic Use
 
@@ -15,7 +18,7 @@ When reusing or discussing evidence contained in this repository, the **original
 - Reziye Tuersun
 - Warsha Vimanga Kiringoda
 
-Master's Degree Project in Strategic Information Systems Management / Computer and Systems Sciences
+Master's Degree Project in Strategic Information Systems Management / Computer and Systems Sciences  
 Department of Computer and Systems Sciences  
 Stockholm University  
 Spring 2026
